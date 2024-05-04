@@ -1,0 +1,84 @@
+[
+  {
+    "question": "Quel est l'acronyme de Dart?",
+    "opt1": "Data Analysis and Reporting Tool",
+    "opt2": "Digital Application Rendering Toolkit",
+    "opt3": "Dart Analysis and Refactoring Tool",
+    "opt4": "Data Recovery and Restoration Tool",
+    "correct": "opt1"
+},
+{
+    "question": "Flutter est un framework développé par Google pour créer des applications mobiles, web et de bureau à partir d'un seul code source",
+    "opt1": "Vrai",
+    "opt2": "Faux",
+    "opt3": "Aucun des deux",
+    "opt4": "Je ne sais pas",
+    "correct": "opt1"
+},
+{
+    "question": "Quelle année a vu la première version stable de Flutter être publiée ?",
+    "opt1": "2018",
+    "opt2": "2022",
+    "opt3": "2016",
+    "opt4": "2020",
+    "correct": "opt1"
+},
+{
+    "question": "Quel langage de programmation est principalement utilisé avec Flutter ?",
+    "opt1": "Python",
+    "opt2": "Dart",
+    "opt3": "JavaScript",
+    "opt4": "Java",
+    "correct": "opt2"
+},
+{
+    "question": "Dart est un langage de programmation compilé à la fois AOT (Ahead Of Time) et JIT (Just In Time)",
+    "opt1": "Vrai",
+    "opt2": "Faux",
+    "opt3": "Aucun des deux",
+    "opt4": "Je ne sais pas",
+    "correct": "opt1"
+},
+{
+    "question": "Quelle entreprise a développé Flutter ?",
+    "opt1": "Facebook",
+    "opt2": "Google",
+    "opt3": "Apple",
+    "opt4": "Microsoft",
+    "correct": "opt2"
+},
+{
+    "question": "Quelle est la fonction principale de Flutter ?",
+    "opt1": "Créer des applications web modernes et interactives",
+    "opt2": " Développer des applications de bureau multiplateformes",
+    "opt3": "Créer des applications mobiles natives pour Android uniquement",
+    "opt4": "Créer des interfaces utilisateur riches et réactives pour plusieurs plateformes",
+    "correct": "opt4"
+},
+{
+    "question": "Quel éditeur de code est souvent utilisé pour développer des applications Flutter ?",
+    "opt1": "IntelliJ IDEA",
+    "opt2": "Visual Studio Code",
+    "opt3": "Android Studio",
+    "opt4": "Tous les réponses précédentes sont correctes",
+    "correct": "opt4"
+},
+{
+    "question": "Flutter est basé sur le langage de programmation JavaScript. ",
+    "opt1": "Vrai",
+    "opt2": "Faux",
+    "opt3": "Aucun des deux",
+    "opt4": "Je ne sais pas",
+    "correct": "opt2"
+},
+{
+    "question": "Quelle est la structure de projet recommandée pour une application Flutter ?",
+    "opt1": "Model-View-Controller (MVC)",
+    "opt2": " Widget-View-Controller (WVC)",
+    "opt3": "Model-View-Presenter (MVP)",
+    "opt4": "Model-View-ViewModel (MVVM)",
+    "correct": "opt2"
+}
+]
+
+

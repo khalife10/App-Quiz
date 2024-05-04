@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .container {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .quiz-container {
+            display: none;
+            
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Bienvenue sur le quiz</h1>
+        <div class="info_box">
+            <div class="info-title"><span>Quelques règles du Quiz</span></div>
+            <div class="info-list">
+                <div class="info">1. Vous aurez seulement <span>20 secondes</span> pour chaque question.</div>
+                <div class="info">2. Une fois avoir repondu à une question, vous ne pourrez plus revenir en arrière.</div>
+                <div class="info">3. Vous ne pouvez plus choisir une réponse une fois le délai passé.</div>
+                <div class="info">4. Vous serez notés sur les reponses justes.</div>
+            </div>
+        <button id="startQuiz">Commencer le quiz</button>
+    </div>
+
+
+    <div class="quiz-container">
+        <div id="question"></div>
+        <div id="options"></div>
+        <button id="next">Next Question</button>
+    </div>
+
+    <script>
+        document.getElementById("startQuiz").addEventListener("click", function () {
+            window.location.href = "index.html";
+        });
+    </script>
+</body>
+
+</html>
